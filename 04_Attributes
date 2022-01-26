@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Attributes</h1>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="Sorry!! Image is missing"> <!-- img attribute is used to add image in your website and here src means source code we need to give Image path in it and alt means alternative if img does not work or link is broken then alt text will be shown -->
+
+<a href="http://google.com">Click me</a> <!-- a attribute work as a anchor in which there will be text and if user click it user will redirect to given website in href -->
+
+</body>
+</html>
